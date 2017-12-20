@@ -1,5 +1,5 @@
 {
-  "name": "recipe-server",
+  "name": "example-apollo-graphql",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
